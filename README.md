@@ -68,7 +68,7 @@ Built with the latest technologies, following security best practices, and desig
 ├── docker-compose.yml
 └── README.md
 
-## Setup & installation
+## ⚙️ Setup & installation
 1. Clone the repo
 ```bash
 git clone https://github.com/kashafbagewadi/user-management.git
@@ -91,12 +91,12 @@ npm start
 ```bash
 docker-compose up --build
 ```
-## Roadmap
+## 🗺️ Roadmap
 - Multi-factor authentication (MFA)
 - Social logins (Google, GitHub, LinkedIn)
 - User activity logs
 - Admin analytics dashboard
 - API key management for developers
 
-## License
+## 📜 License
 MIT License © 2025 KashafunnisaBagewadi
